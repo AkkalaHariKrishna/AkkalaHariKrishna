@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Hari Krishna 👋
 
-<!--
-**AkkalaHariKrishna/AkkalaHariKrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Aspiring SOC Analyst | Cybersecurity Student
 
-Here are some ideas to get you started:
+I'm a cybersecurity student building practical skills in **SOC operations, SIEM, networking, Linux, and Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Cybersecurity Skills
+
+* 🛡️ SOC Operations
+* 📊 SIEM — Wazuh, Splunk
+* 🌐 Networking — TCP/IP, VLANs, ACLs, Routing
+* 🐧 Linux & Windows
+* 🔎 Wireshark & Network Analysis
+* 🔥 pfSense Firewall
+* 🐍 Python
+* 🧠 MITRE ATT&CK
+* 🚨 Log Analysis & Incident Response
+
+## 🧪 Cybersecurity Projects
+
+* 🔹 Wazuh SOC Home Lab
+* 🔹 Splunk Security Lab
+* 🔹 Python Security Tools
+* 🔹 Network Security Lab
+* 🔹 Wireshark Network Analysis
+* 🔹 Tamper-Evident Logging System
+
+## 📚 Currently Learning
+
+* SOC Operations
+* SIEM & Detection Engineering
+* Threat Detection
+* Incident Response
+* MITRE ATT&CK
+* Digital Forensics
+* Security Automation with Python
+
+## 🎯 Career Goal
+
+To start my career as a **SOC Analyst / Cybersecurity Analyst** and develop strong practical skills in security monitoring, threat detection, and incident response.
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/hari-krishna-730482303/
+* 🐙 GitHub: https://github.com/settings/profile
