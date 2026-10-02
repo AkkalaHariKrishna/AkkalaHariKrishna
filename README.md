@@ -1,4 +1,4 @@
-# Hi, I'm Hari Krishna 👋
+# Hi, I'm Hari Krishna Akkala👋
 
 ### 🛡️ Aspiring SOC Analyst | Cybersecurity Student
 
